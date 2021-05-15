@@ -40,5 +40,10 @@ int min_val=MIN_VALUE(array,length);
 printf("\nMin value=%d\n",min_val);
 
 second_large_num(min_val,max_val,array,length);
+    
+/*Output Max val=234  
+         Min val=12
+         second large number=89
+*/
     return 0;
 }
